@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProDev92
+- 👋 Hi, I’m @Phayzullayvich
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning 
 programming language
